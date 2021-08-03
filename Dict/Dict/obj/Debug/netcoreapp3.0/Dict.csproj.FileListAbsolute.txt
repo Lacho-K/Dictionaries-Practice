@@ -1,0 +1,11 @@
+C:\Users\kolev\source\repos\Dict\Dict\bin\Debug\netcoreapp3.0\Dict.exe
+C:\Users\kolev\source\repos\Dict\Dict\bin\Debug\netcoreapp3.0\Dict.deps.json
+C:\Users\kolev\source\repos\Dict\Dict\bin\Debug\netcoreapp3.0\Dict.runtimeconfig.json
+C:\Users\kolev\source\repos\Dict\Dict\bin\Debug\netcoreapp3.0\Dict.runtimeconfig.dev.json
+C:\Users\kolev\source\repos\Dict\Dict\bin\Debug\netcoreapp3.0\Dict.dll
+C:\Users\kolev\source\repos\Dict\Dict\bin\Debug\netcoreapp3.0\Dict.pdb
+C:\Users\kolev\source\repos\Dict\Dict\obj\Debug\netcoreapp3.0\Dict.csprojAssemblyReference.cache
+C:\Users\kolev\source\repos\Dict\Dict\obj\Debug\netcoreapp3.0\Dict.AssemblyInfoInputs.cache
+C:\Users\kolev\source\repos\Dict\Dict\obj\Debug\netcoreapp3.0\Dict.AssemblyInfo.cs
+C:\Users\kolev\source\repos\Dict\Dict\obj\Debug\netcoreapp3.0\Dict.dll
+C:\Users\kolev\source\repos\Dict\Dict\obj\Debug\netcoreapp3.0\Dict.pdb
