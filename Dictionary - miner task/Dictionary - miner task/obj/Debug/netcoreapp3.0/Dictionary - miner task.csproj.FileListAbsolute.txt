@@ -1,0 +1,11 @@
+C:\Users\kolev\source\repos\Dictionary - miner task\Dictionary - miner task\bin\Debug\netcoreapp3.0\Dictionary - miner task.exe
+C:\Users\kolev\source\repos\Dictionary - miner task\Dictionary - miner task\bin\Debug\netcoreapp3.0\Dictionary - miner task.deps.json
+C:\Users\kolev\source\repos\Dictionary - miner task\Dictionary - miner task\bin\Debug\netcoreapp3.0\Dictionary - miner task.runtimeconfig.json
+C:\Users\kolev\source\repos\Dictionary - miner task\Dictionary - miner task\bin\Debug\netcoreapp3.0\Dictionary - miner task.runtimeconfig.dev.json
+C:\Users\kolev\source\repos\Dictionary - miner task\Dictionary - miner task\bin\Debug\netcoreapp3.0\Dictionary - miner task.dll
+C:\Users\kolev\source\repos\Dictionary - miner task\Dictionary - miner task\bin\Debug\netcoreapp3.0\Dictionary - miner task.pdb
+C:\Users\kolev\source\repos\Dictionary - miner task\Dictionary - miner task\obj\Debug\netcoreapp3.0\Dictionary - miner task.csprojAssemblyReference.cache
+C:\Users\kolev\source\repos\Dictionary - miner task\Dictionary - miner task\obj\Debug\netcoreapp3.0\Dictionary - miner task.AssemblyInfoInputs.cache
+C:\Users\kolev\source\repos\Dictionary - miner task\Dictionary - miner task\obj\Debug\netcoreapp3.0\Dictionary - miner task.AssemblyInfo.cs
+C:\Users\kolev\source\repos\Dictionary - miner task\Dictionary - miner task\obj\Debug\netcoreapp3.0\Dictionary - miner task.dll
+C:\Users\kolev\source\repos\Dictionary - miner task\Dictionary - miner task\obj\Debug\netcoreapp3.0\Dictionary - miner task.pdb
