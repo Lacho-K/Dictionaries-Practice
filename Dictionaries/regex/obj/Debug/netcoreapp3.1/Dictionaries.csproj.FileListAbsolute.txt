@@ -1,0 +1,10 @@
+C:\Users\i7 boy\source\repos\Dictionaries\regex\bin\Debug\netcoreapp3.1\Dictionaries.exe
+C:\Users\i7 boy\source\repos\Dictionaries\regex\bin\Debug\netcoreapp3.1\Dictionaries.deps.json
+C:\Users\i7 boy\source\repos\Dictionaries\regex\bin\Debug\netcoreapp3.1\Dictionaries.runtimeconfig.json
+C:\Users\i7 boy\source\repos\Dictionaries\regex\bin\Debug\netcoreapp3.1\Dictionaries.runtimeconfig.dev.json
+C:\Users\i7 boy\source\repos\Dictionaries\regex\bin\Debug\netcoreapp3.1\Dictionaries.dll
+C:\Users\i7 boy\source\repos\Dictionaries\regex\bin\Debug\netcoreapp3.1\Dictionaries.pdb
+C:\Users\i7 boy\source\repos\Dictionaries\regex\obj\Debug\netcoreapp3.1\Dictionaries.AssemblyInfoInputs.cache
+C:\Users\i7 boy\source\repos\Dictionaries\regex\obj\Debug\netcoreapp3.1\Dictionaries.AssemblyInfo.cs
+C:\Users\i7 boy\source\repos\Dictionaries\regex\obj\Debug\netcoreapp3.1\Dictionaries.dll
+C:\Users\i7 boy\source\repos\Dictionaries\regex\obj\Debug\netcoreapp3.1\Dictionaries.pdb
