@@ -1,0 +1,11 @@
+C:\Users\kolev\source\repos\FExPrep\FExPrep\bin\Debug\netcoreapp3.0\FExPrep.exe
+C:\Users\kolev\source\repos\FExPrep\FExPrep\bin\Debug\netcoreapp3.0\FExPrep.deps.json
+C:\Users\kolev\source\repos\FExPrep\FExPrep\bin\Debug\netcoreapp3.0\FExPrep.runtimeconfig.json
+C:\Users\kolev\source\repos\FExPrep\FExPrep\bin\Debug\netcoreapp3.0\FExPrep.runtimeconfig.dev.json
+C:\Users\kolev\source\repos\FExPrep\FExPrep\bin\Debug\netcoreapp3.0\FExPrep.dll
+C:\Users\kolev\source\repos\FExPrep\FExPrep\bin\Debug\netcoreapp3.0\FExPrep.pdb
+C:\Users\kolev\source\repos\FExPrep\FExPrep\obj\Debug\netcoreapp3.0\FExPrep.csprojAssemblyReference.cache
+C:\Users\kolev\source\repos\FExPrep\FExPrep\obj\Debug\netcoreapp3.0\FExPrep.AssemblyInfoInputs.cache
+C:\Users\kolev\source\repos\FExPrep\FExPrep\obj\Debug\netcoreapp3.0\FExPrep.AssemblyInfo.cs
+C:\Users\kolev\source\repos\FExPrep\FExPrep\obj\Debug\netcoreapp3.0\FExPrep.dll
+C:\Users\kolev\source\repos\FExPrep\FExPrep\obj\Debug\netcoreapp3.0\FExPrep.pdb
