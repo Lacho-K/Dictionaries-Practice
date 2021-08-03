@@ -1,0 +1,11 @@
+C:\Users\i7 boy\source\repos\CountChars\CountChars\bin\Debug\netcoreapp3.1\CountChars.exe
+C:\Users\i7 boy\source\repos\CountChars\CountChars\bin\Debug\netcoreapp3.1\CountChars.deps.json
+C:\Users\i7 boy\source\repos\CountChars\CountChars\bin\Debug\netcoreapp3.1\CountChars.runtimeconfig.json
+C:\Users\i7 boy\source\repos\CountChars\CountChars\bin\Debug\netcoreapp3.1\CountChars.runtimeconfig.dev.json
+C:\Users\i7 boy\source\repos\CountChars\CountChars\bin\Debug\netcoreapp3.1\CountChars.dll
+C:\Users\i7 boy\source\repos\CountChars\CountChars\bin\Debug\netcoreapp3.1\CountChars.pdb
+C:\Users\i7 boy\source\repos\CountChars\CountChars\obj\Debug\netcoreapp3.1\CountChars.csprojAssemblyReference.cache
+C:\Users\i7 boy\source\repos\CountChars\CountChars\obj\Debug\netcoreapp3.1\CountChars.AssemblyInfoInputs.cache
+C:\Users\i7 boy\source\repos\CountChars\CountChars\obj\Debug\netcoreapp3.1\CountChars.AssemblyInfo.cs
+C:\Users\i7 boy\source\repos\CountChars\CountChars\obj\Debug\netcoreapp3.1\CountChars.dll
+C:\Users\i7 boy\source\repos\CountChars\CountChars\obj\Debug\netcoreapp3.1\CountChars.pdb
