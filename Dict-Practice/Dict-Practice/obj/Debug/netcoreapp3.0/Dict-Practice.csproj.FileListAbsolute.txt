@@ -1,0 +1,11 @@
+C:\Users\kolev\source\repos\Dict-Practice\Dict-Practice\bin\Debug\netcoreapp3.0\Dict-Practice.exe
+C:\Users\kolev\source\repos\Dict-Practice\Dict-Practice\bin\Debug\netcoreapp3.0\Dict-Practice.deps.json
+C:\Users\kolev\source\repos\Dict-Practice\Dict-Practice\bin\Debug\netcoreapp3.0\Dict-Practice.runtimeconfig.json
+C:\Users\kolev\source\repos\Dict-Practice\Dict-Practice\bin\Debug\netcoreapp3.0\Dict-Practice.runtimeconfig.dev.json
+C:\Users\kolev\source\repos\Dict-Practice\Dict-Practice\bin\Debug\netcoreapp3.0\Dict-Practice.dll
+C:\Users\kolev\source\repos\Dict-Practice\Dict-Practice\bin\Debug\netcoreapp3.0\Dict-Practice.pdb
+C:\Users\kolev\source\repos\Dict-Practice\Dict-Practice\obj\Debug\netcoreapp3.0\Dict-Practice.csprojAssemblyReference.cache
+C:\Users\kolev\source\repos\Dict-Practice\Dict-Practice\obj\Debug\netcoreapp3.0\Dict-Practice.AssemblyInfoInputs.cache
+C:\Users\kolev\source\repos\Dict-Practice\Dict-Practice\obj\Debug\netcoreapp3.0\Dict-Practice.AssemblyInfo.cs
+C:\Users\kolev\source\repos\Dict-Practice\Dict-Practice\obj\Debug\netcoreapp3.0\Dict-Practice.dll
+C:\Users\kolev\source\repos\Dict-Practice\Dict-Practice\obj\Debug\netcoreapp3.0\Dict-Practice.pdb
