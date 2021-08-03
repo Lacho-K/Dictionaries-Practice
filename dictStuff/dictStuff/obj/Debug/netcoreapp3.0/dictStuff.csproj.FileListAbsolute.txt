@@ -1,0 +1,11 @@
+C:\Users\kolev\source\repos\dictStuff\dictStuff\bin\Debug\netcoreapp3.0\dictStuff.exe
+C:\Users\kolev\source\repos\dictStuff\dictStuff\bin\Debug\netcoreapp3.0\dictStuff.deps.json
+C:\Users\kolev\source\repos\dictStuff\dictStuff\bin\Debug\netcoreapp3.0\dictStuff.runtimeconfig.json
+C:\Users\kolev\source\repos\dictStuff\dictStuff\bin\Debug\netcoreapp3.0\dictStuff.runtimeconfig.dev.json
+C:\Users\kolev\source\repos\dictStuff\dictStuff\bin\Debug\netcoreapp3.0\dictStuff.dll
+C:\Users\kolev\source\repos\dictStuff\dictStuff\bin\Debug\netcoreapp3.0\dictStuff.pdb
+C:\Users\kolev\source\repos\dictStuff\dictStuff\obj\Debug\netcoreapp3.0\dictStuff.csprojAssemblyReference.cache
+C:\Users\kolev\source\repos\dictStuff\dictStuff\obj\Debug\netcoreapp3.0\dictStuff.AssemblyInfoInputs.cache
+C:\Users\kolev\source\repos\dictStuff\dictStuff\obj\Debug\netcoreapp3.0\dictStuff.AssemblyInfo.cs
+C:\Users\kolev\source\repos\dictStuff\dictStuff\obj\Debug\netcoreapp3.0\dictStuff.dll
+C:\Users\kolev\source\repos\dictStuff\dictStuff\obj\Debug\netcoreapp3.0\dictStuff.pdb

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8SnB/naH2GQp4bmetVAYlBxlHYSOT/N9/Y8bjXrPGuxkLYkbHb3gqkTBBjF/vuHerYjX+GFlthd53N8I+PZ8PA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kolev\\source\\repos\\dictStuff\\dictStuff\\dictStuff.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kolev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\kolev\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\kolev\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\kolev\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
