@@ -1,0 +1,13 @@
+C:\Users\lacho\source\repos\moreStuff\moreStuff\bin\Debug\netcoreapp3.1\moreStuff.exe
+C:\Users\lacho\source\repos\moreStuff\moreStuff\bin\Debug\netcoreapp3.1\moreStuff.deps.json
+C:\Users\lacho\source\repos\moreStuff\moreStuff\bin\Debug\netcoreapp3.1\moreStuff.runtimeconfig.json
+C:\Users\lacho\source\repos\moreStuff\moreStuff\bin\Debug\netcoreapp3.1\moreStuff.runtimeconfig.dev.json
+C:\Users\lacho\source\repos\moreStuff\moreStuff\bin\Debug\netcoreapp3.1\moreStuff.dll
+C:\Users\lacho\source\repos\moreStuff\moreStuff\bin\Debug\netcoreapp3.1\moreStuff.pdb
+C:\Users\lacho\source\repos\moreStuff\moreStuff\obj\Debug\netcoreapp3.1\moreStuff.csprojAssemblyReference.cache
+C:\Users\lacho\source\repos\moreStuff\moreStuff\obj\Debug\netcoreapp3.1\moreStuff.AssemblyInfoInputs.cache
+C:\Users\lacho\source\repos\moreStuff\moreStuff\obj\Debug\netcoreapp3.1\moreStuff.AssemblyInfo.cs
+C:\Users\lacho\source\repos\moreStuff\moreStuff\obj\Debug\netcoreapp3.1\moreStuff.csproj.CoreCompileInputs.cache
+C:\Users\lacho\source\repos\moreStuff\moreStuff\obj\Debug\netcoreapp3.1\moreStuff.dll
+C:\Users\lacho\source\repos\moreStuff\moreStuff\obj\Debug\netcoreapp3.1\moreStuff.pdb
+C:\Users\lacho\source\repos\moreStuff\moreStuff\obj\Debug\netcoreapp3.1\moreStuff.genruntimeconfig.cache
